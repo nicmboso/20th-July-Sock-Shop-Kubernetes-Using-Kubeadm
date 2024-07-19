@@ -1,0 +1,15 @@
+variable "az1" {}
+variable "az2" {}
+variable "az3" {}
+variable "vpc-name" {}
+variable "pub1" {}
+variable "pub2" {}
+variable "pub3" {}
+variable "prv1" {}
+variable "prv2" {}
+variable "prv3" {}
+variable "igw" {}
+variable "eip" {}
+variable "nat" {}
+variable "pub_rt" {}
+variable "prv-rt" {}
