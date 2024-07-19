@@ -1,0 +1,15 @@
+variable "ubuntu" {}
+variable "ssh_key" {}
+variable "ansible_name" {}
+variable "subnet_id" {}
+variable "ansible-sg" {}
+variable "private-key" {}
+variable "bastion" {}
+variable "haproxy1" {}
+variable "haproxy2" {}
+variable "master1" {}
+variable "master2" {}
+variable "master3" {}
+variable "worker1" {}
+variable "worker2" {}
+variable "worker3" {}
